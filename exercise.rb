@@ -43,7 +43,6 @@ boston = Location.new('boston')
 
 p toronto
 
-
 trip1 = Trip.new
 
 trip1.add(toronto)
@@ -54,7 +53,3 @@ trip1.add(boston)
 p trip1
 
 trip1.travel_log
-#
-# trip1.add(toronto)
-#
-# p stops
